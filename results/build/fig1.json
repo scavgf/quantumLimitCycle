@@ -1,0 +1,37 @@
+{
+  "signature": {
+    "inputs": {
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig1.py": "e75baba5b6229dfb3b8b2699dd2c465274161103cc6b68c22fa3085f00a453ac",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/run.py": "d902dd5016d6ebaeee4af8847733aca52570d646454fa677baa4a475d08c7ccd",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/requirements.txt": "705a1fa99497d378112ed08eefd79502b7372f163867acaee6ce0909ff8bff61",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/approach.csv": "dbbefeeda1bca430e010e334a5aea9167b630f1e485b97be41bbb47fcffd4a66",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/cycle.csv": "2b521727d7ef6096387c146535d217226320c69f9a4fa43df3637c7fdc098642",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/husimi_q.csv": "81d07d8b70bfcb61598f229a7eae11473cff531c272cbc79ab8494c5e6e387af",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/fs_selected.csv": "69a6e5c4e48bbbaf97e1d3e2f04af335340cc8428cc2aa93b11384e47b96ccc1",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/bures_absolute.csv": "01269eab346ecdc69bd1a578b335eccc1b60396458d75e5bbf9712aa4baca0f8",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/bures_repaired_mask.csv": "81bd20a8c709decb2756010925f5a3931d0e6391a41b568f2b2d7a99c0e96e31",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/metadata.txt": "35234cdd9dfd23ebc0bab3fb0cc2c880fff2947e3e5dba9bf3a4778460cc862f",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig5.py": "25d8f52414689320daa92452332a855ca6847f76c78484c6e429333721f83b28"
+    },
+    "arguments": [
+      "/opt/homebrew/opt/python@3.13/bin/python3.13",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig1.py",
+      "--classical",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data",
+      "--geometry",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data",
+      "--time",
+      "5.0",
+      "--omega",
+      "1.0",
+      "--epsilon",
+      "0.6",
+      "--output",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig1"
+    ]
+  },
+  "outputs": {
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig1.pdf": "5211d72e70dcbb3d6ba8eadf5f1a0b7b9b8ba96d46a495f2523cf7351ba1b174",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig1.png": "08b81ad27750b28a2197691c538ccbfb25df769554ee289590be8d35db7f0d01"
+  }
+}

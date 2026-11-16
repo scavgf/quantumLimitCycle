@@ -1,0 +1,26 @@
+{
+  "signature": {
+    "inputs": {
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig6.py": "b72673cd6af6d2bee5bba5c04a5525957a4bdcc0fba3115a53fa002d80d74650",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/run.py": "d902dd5016d6ebaeee4af8847733aca52570d646454fa677baa4a475d08c7ccd",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/requirements.txt": "705a1fa99497d378112ed08eefd79502b7372f163867acaee6ce0909ff8bff61",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/positivity_report.txt": "7f4bb3a0c68b74f4193c579887e643e8c3369fdc01c6679e88f9ccab530f5561",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/reference_harmonics.csv": "fe56530e862a730455c477519f0a1a542d51fcd6e9e9ff25906f76344b86a72c",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/spectrum.csv": "47cc5da353e8328c8b046285a40cd39009eee146266599a93bc7f63de7e629ec",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/metric_time.csv": "57f63e641be9e10536d34a46141a20ada369a9d9b14d7b6158efe22fe749bde9"
+    },
+    "arguments": [
+      "/opt/homebrew/opt/python@3.13/bin/python3.13",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig6.py",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data",
+      "--out",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig6"
+    ]
+  },
+  "outputs": {
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig6.pdf": "34a203eb55bc189405c28f5dc98d3bd3e111baf5915cd100de8823821cbb84e6",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig6.png": "977c1c6b1e15340abb7ddc0ebe798340068f694f13159a648af5324cd6f9d0d4",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig6_harmonics.csv": "cfa295967e9b86e31488ef60e7d81aa7bd74651dc0f660d4c0bda930fa6429e0",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig6_time.csv": "b4c2ed0bad8dfce2efd31cbee9097a5683e32caff4929cce70832607bf1164d4"
+  }
+}

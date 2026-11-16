@@ -1,0 +1,11 @@
+Phase and amplitude comparisons use coherent-state overlaps with the left modes.
+N=450 Ktest=10 Delta=1 epsilon=0.6 nu=0.002
+omega_classical_exact=0.8
+omega_classical_numerical=0.799999890933
+max_abs_classical_phase_time_error=1.1928236e-11
+l=1 total_phase_winding=-2.0000003*pi
+l=1 z=-0.00306777262-0.799848338i  quantum_phase_RMS_error=0.0025812838 rad  max_error=0.0044737269  amplitude_CV=0.001204044
+l=5 total_phase_winding=-2.0000003*pi
+l=5 z=-0.0765516325-4.00072449i  quantum_phase_RMS_error=0.0022969979 rad  max_error=0.0040538982  amplitude_CV=0.030012151
+l=10 total_phase_winding=-2.0000003*pi
+l=10 z=-0.304865364-8.0105147i  quantum_phase_RMS_error=0.0018497597 rad  max_error=0.0035770596  amplitude_CV=0.11856294

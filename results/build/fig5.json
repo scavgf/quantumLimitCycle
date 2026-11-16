@@ -1,0 +1,27 @@
+{
+  "signature": {
+    "inputs": {
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig5.py": "25d8f52414689320daa92452332a855ca6847f76c78484c6e429333721f83b28",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/run.py": "d902dd5016d6ebaeee4af8847733aca52570d646454fa677baa4a475d08c7ccd",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/requirements.txt": "705a1fa99497d378112ed08eefd79502b7372f163867acaee6ce0909ff8bff61",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/husimi_q.csv": "81d07d8b70bfcb61598f229a7eae11473cff531c272cbc79ab8494c5e6e387af"
+    },
+    "arguments": [
+      "/opt/homebrew/opt/python@3.13/bin/python3.13",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig5.py",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data",
+      "--out",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig5",
+      "--Delta",
+      "1.0",
+      "--epsilon",
+      "0.6"
+    ]
+  },
+  "outputs": {
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig5.pdf": "9af384382903bdf8783ead876d76420d28ed471b79f9bf96b6fdb666561a6e1e",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig5.png": "c6fe6c43e7ab0b5b48b24ca3370ab8085cf4b4ed7ae3ad2bc779989ed67bcc5b",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig5_p_theta.csv": "d2ac77a9f7eac45340821f94764b09bd9aec64ab20ce99fd4e7a909b39491719",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig5_phase_comparison.csv": "1ea1cb3e66e6a12d3745a384789dd04cf53f0c4ab690f90cf48a8edae0f7ccad"
+  }
+}

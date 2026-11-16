@@ -1,0 +1,23 @@
+{
+  "signature": {
+    "inputs": {
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig3.py": "5766689542bf5cacb762451bb9a7905c5c10f4a575c8b3a401224d52bfc18f3b",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/run.py": "d902dd5016d6ebaeee4af8847733aca52570d646454fa677baa4a475d08c7ccd",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/requirements.txt": "705a1fa99497d378112ed08eefd79502b7372f163867acaee6ce0909ff8bff61",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/spectrum.csv": "47cc5da353e8328c8b046285a40cd39009eee146266599a93bc7f63de7e629ec"
+    },
+    "arguments": [
+      "/opt/homebrew/opt/python@3.13/bin/python3.13",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig3.py",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data",
+      "--fitmax",
+      "5",
+      "--out",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig3"
+    ]
+  },
+  "outputs": {
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig3.pdf": "546492ce5ca4db9dfc171beadeac87acda7951f07b6f47f8eb4cf6b96eb6fb42",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig3.png": "4cb2b82c6fbe0709f522e88dd221f369c436b9b6ee1a118f0b8a2899e0e72267"
+  }
+}

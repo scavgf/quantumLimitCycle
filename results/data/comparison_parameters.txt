@@ -1,0 +1,9 @@
+N=450.0
+Ktest=10.0
+Delta=1.0
+epsilon=0.6
+gamma_up=1.0
+gamma_down=0.2
+nu=0.002
+omega_exact=0.8
+omega_numerical=0.7999998909325925

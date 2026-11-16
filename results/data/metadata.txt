@@ -1,0 +1,15 @@
+N=450.0
+K=30.0
+Delta=1.0
+epsilon=0.6
+gamma_up=1.0
+gamma_down=0.2
+nu=0.002
+omega_cycle=0.7999998909325925
+D_fit=0.006125668261398724
+time_origin=Gaussian start
+gaussian_start_projection_time=1.5
+gaussian_sigma=6.089675259761251
+positivity_scope=reference
+psd_tolerance=0.0001
+Bures is calculated from the Gaussian-initialized density family and its own phase derivative; no clipping.

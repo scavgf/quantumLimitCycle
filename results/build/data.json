@@ -1,0 +1,41 @@
+{
+  "signature": {
+    "inputs": {
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/src/calculate.jl": "001c7667d1ee642a02ba357d19c43fee89ced41ec33641d8db4888d4a79d0979",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/src/model.jl": "dbea7b042f3e5cf611aab0ba051f70361b5b27fdba69ff111f0da5bccb643dd8",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/src/phase.jl": "b8ad381718de65987162143697105c46b2f1450849ac9d22f3e23843dc3bd4a5",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/src/positive_geometry.jl": "b9f8951e163e521e7a54020ac87aeecbcee17ac1d83ce750cb66c5d7e63a205c",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/src/positivity.jl": "cd0bfa341f7b12ec55a30122049f8b0d6470e411c44507a191f5b0bebccea2b4",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/Project.toml": "496d6ef408a082b96172ccbfa8dfd2097481aa3686b8f077d2ef14017d9f6b5e",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/config.toml": "842dcf6a42290164acd8b15a724e63bb87168c90bf27195b3a764c1e81453c05"
+    },
+    "arguments": [
+      "data-v1"
+    ]
+  },
+  "outputs": {
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/approach.csv": "dbbefeeda1bca430e010e334a5aea9167b630f1e485b97be41bbb47fcffd4a66",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/cycle.csv": "2b521727d7ef6096387c146535d217226320c69f9a4fa43df3637c7fdc098642",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/husimi_q.csv": "81d07d8b70bfcb61598f229a7eae11473cff531c272cbc79ab8494c5e6e387af",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/photon_pop.csv": "2e6a9a71a21406736faa8f0ee6929959861e39cc40d4bdcfc42a22953fae7af8",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/spectrum.csv": "47cc5da353e8328c8b046285a40cd39009eee146266599a93bc7f63de7e629ec",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/weights.csv": "8ecaabd55d476f40a9c0b75591013bdae18a15f79ca238120a01b9e2a1d4aae5",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/fs_selected.csv": "69a6e5c4e48bbbaf97e1d3e2f04af335340cc8428cc2aa93b11384e47b96ccc1",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/fidelity.csv": "fe96c4a613e99ef8bb647e2f2db228985fe31498ad748d6bf921dbdafdf7be7c",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/metric_time.csv": "57f63e641be9e10536d34a46141a20ada369a9d9b14d7b6158efe22fe749bde9",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/bures_absolute.csv": "01269eab346ecdc69bd1a578b335eccc1b60396458d75e5bbf9712aa4baca0f8",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/bures_repaired_mask.csv": "81bd20a8c709decb2756010925f5a3931d0e6391a41b568f2b2d7a99c0e96e31",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/metadata.txt": "35234cdd9dfd23ebc0bab3fb0cc2c880fff2947e3e5dba9bf3a4778460cc862f",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/theta_comparison.csv": "369dbe3cfb91f983d7fd2bcdc8bb703707571ff22c0203dea4996ec3f0d7e446",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/harmonic_amplitudes.csv": "704a3a1e936c680b15c1883435d0711b47cc638b0373b811ee6b65205b7c205f",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/summary.txt": "9cca7fae1f78c00d03e2f725a04ae84341539e93733f0e6ef7efda52a1d92724",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/comparison_parameters.txt": "2d6dd0f04275b4007ab0c95d37f5552665edca41148f9c9125fde1748d2f879b",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/positivity_report.txt": "7f4bb3a0c68b74f4193c579887e643e8c3369fdc01c6679e88f9ccab530f5561",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/reference_state_real.csv": "e7e8200fc25709dd4cdf58c44004dc543ab3a172f662d97f38d2d5d80c5445cb",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/reference_state_imag.csv": "6ef04d4c0d4ce3bc0c47bff5724f9e789fb7dfd8ddd3afc8d9023b6b0187f19c",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/reference_harmonics.csv": "fe56530e862a730455c477519f0a1a542d51fcd6e9e9ff25906f76344b86a72c",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/bures_min_eigenvalue.csv": "569dccaaa8740853136719938e6adfcf1769e2ef18f9bee1f18d2b437f7bdd80",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/bures_trace_error.csv": "51e5473421ccaa6bf235578959959fd2ef8b1e858f826960ead4870408481d68",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/bures_hermiticity_error.csv": "abfc3f826c41ebe6355af910ea1846be909fcb60e7a8400e56191d770954ddca"
+  }
+}

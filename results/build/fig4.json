@@ -1,0 +1,25 @@
+{
+  "signature": {
+    "inputs": {
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig4.py": "a559353ae70f6a94f1da9d3d6106bec747443aec5e6aefb3a18a74ca0e028e48",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/run.py": "d902dd5016d6ebaeee4af8847733aca52570d646454fa677baa4a475d08c7ccd",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/requirements.txt": "705a1fa99497d378112ed08eefd79502b7372f163867acaee6ce0909ff8bff61",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/theta_comparison.csv": "369dbe3cfb91f983d7fd2bcdc8bb703707571ff22c0203dea4996ec3f0d7e446"
+    },
+    "arguments": [
+      "/opt/homebrew/opt/python@3.13/bin/python3.13",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig4.py",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data",
+      "--out",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig4",
+      "--harmonics",
+      "1",
+      "5",
+      "10"
+    ]
+  },
+  "outputs": {
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig4.pdf": "87ff5ac0245c4bf4aa61d167f381e1350ca90d01df5f9209b26b6975801170f4",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig4.png": "f2e940dd308210f6dc5c8e728bfbd1714cc9200e76325f27edf3a06a26330ad4"
+  }
+}

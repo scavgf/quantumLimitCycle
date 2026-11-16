@@ -1,0 +1,6 @@
+[deps]
+Arpack = "7d9fca2a-8960-54d3-9f78-7d1dccf2cb97"
+
+[compat]
+Arpack = "0.5"
+julia = "1.10"

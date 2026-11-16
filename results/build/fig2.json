@@ -1,0 +1,30 @@
+{
+  "signature": {
+    "inputs": {
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig2.py": "1859f9bb502132e8826f45ba1119cc59095c36bd9d653a1b5b9e1f5dbcc70169",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/run.py": "d902dd5016d6ebaeee4af8847733aca52570d646454fa677baa4a475d08c7ccd",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/requirements.txt": "705a1fa99497d378112ed08eefd79502b7372f163867acaee6ce0909ff8bff61",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/weights.csv": "8ecaabd55d476f40a9c0b75591013bdae18a15f79ca238120a01b9e2a1d4aae5",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/fidelity.csv": "fe96c4a613e99ef8bb647e2f2db228985fe31498ad748d6bf921dbdafdf7be7c",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/metric_time.csv": "57f63e641be9e10536d34a46141a20ada369a9d9b14d7b6158efe22fe749bde9",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/fs_selected.csv": "69a6e5c4e48bbbaf97e1d3e2f04af335340cc8428cc2aa93b11384e47b96ccc1",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data/spectrum.csv": "47cc5da353e8328c8b046285a40cd39009eee146266599a93bc7f63de7e629ec"
+    },
+    "arguments": [
+      "/opt/homebrew/opt/python@3.13/bin/python3.13",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/plots/fig2.py",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/data",
+      "--omega",
+      "1.0",
+      "--times",
+      "0.0,5.0,10.0,20.0,30.0",
+      "--out",
+      "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig2"
+    ]
+  },
+  "outputs": {
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig2.pdf": "9a34179bf3379cc4a2e826234e29cd5e1b367fcd067dd7d2c64cf0d0f761b481",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig2.png": "bd0579352e188da00cb5359e9009d0dcfa76c78999a33b65e0aad29e898fc1b6",
+    "/Users/scavgf/Documents/LimitCycle/limit_cycle_figures_positive/results/figures/Fig2_geometry_frequency.csv": "3ad0fa13492ba08a0e1599b9a49cd4f3c229211522e447747eb9fa9e9172ae69"
+  }
+}
